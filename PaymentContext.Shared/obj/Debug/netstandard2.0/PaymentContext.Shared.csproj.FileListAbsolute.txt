@@ -1,0 +1,9 @@
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
