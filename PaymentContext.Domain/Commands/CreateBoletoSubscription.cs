@@ -2,7 +2,6 @@ using System;
 using Flunt.Notifications;
 using Flunt.Validations;
 using PaymentContext.Domain.Enumns;
-using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Commands;
 
 namespace PaymentContext.Domain.Commands
