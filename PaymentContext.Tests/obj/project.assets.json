@@ -5780,11 +5780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectUniqueName": "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "projectName": "PaymentContext.Tests",
-      "projectPath": "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+      "projectPath": "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
       "packagesPath": "C:\\Users\\Tales\\.nuget\\packages\\",
-      "outputPath": "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Tests\\obj\\",
+      "outputPath": "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5801,11 +5801,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-              "projectPath": "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+            "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+              "projectPath": "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
             },
-            "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "D:\\Programacao\\balta\\ModelandoDominiosRicos\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "d:\\Programacao\\balta\\balta.io-1975-Modelando-Dominios-Ricos\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }

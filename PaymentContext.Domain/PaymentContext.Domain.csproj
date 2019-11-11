@@ -5,7 +5,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="flunt" Version="1.0.4" />
+    <PackageReference Include="Flunt" Version="1.0.4" />
   </ItemGroup>
 
   <PropertyGroup>

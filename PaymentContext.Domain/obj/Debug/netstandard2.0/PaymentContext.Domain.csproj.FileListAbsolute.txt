@@ -10,3 +10,15 @@ D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Domain\obj\Debug\nets
 D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
 D:\Programacao\balta\ModelandoDominiosRicos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+d:\Programacao\balta\balta.io-1975-Modelando-Dominios-Ricos\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
